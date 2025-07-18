@@ -199,3 +199,9 @@ main{
 .featured-architect img{
     width: 100%;
 }
+.footer{
+    text-align: center;
+    padding: 80px;
+    background-color: #FFF4E7;
+    margin-top: 10px;
+}
